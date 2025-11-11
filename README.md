@@ -15,7 +15,7 @@ The goal is to practice **input/output**, **conditionals**, and **score tracking
 ---
 
  How to Run
-1. Download the file `quiz.py`
+1. Download the file Mini-Quiz.py
 2. Open a terminal or command prompt
 3. Run the program with:
    
