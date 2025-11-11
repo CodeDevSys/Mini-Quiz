@@ -19,4 +19,4 @@ The goal is to practice **input/output**, **conditionals**, and **score tracking
 2. Open a terminal or command prompt
 3. Run the program with:
    
-   python quiz.py
+   python Mini-Quiz.py
